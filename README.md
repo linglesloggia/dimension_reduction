@@ -16,3 +16,4 @@ The project structure is evolving, but the primary components include:
 - **notebooks/**: Houses the Jupyter Notebooks used for initial exploration and analysis.
 - **data/**: Stores any relevant data used in the project.
 - **docs/**: Documentation related to the project.
+- **images/**: Images
